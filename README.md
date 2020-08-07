@@ -67,15 +67,24 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
 
-
 ## Added Simple Component Example of React JS.
+
 <img src='screenshots/react.PNG'>.
 
 ## Added React JS Routing Example.
 
 ## Added Home,About,Contact Page Component
+
 <img src='screenshots/react3.PNG'>.
 
 ## Added Style State Input and Button Listener Example
+
 <img src='screenshots/react4.PNG'>.
 
+## Added React JS Ajax GET Example
+
+<img src='screenshots/react_ajax_get.PNG'>.
+
+## Added React JS Ajax POST Example
+
+<img src='screenshots/react_ajax_post.PNG'>.
