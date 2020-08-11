@@ -88,3 +88,7 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 ## Added React JS Ajax POST Example
 
 <img src='screenshots/react_ajax_post.PNG'>.
+
+## Added React JS Simple Food Cart Example
+
+<img src='screenshots/react_food.PNG'>.

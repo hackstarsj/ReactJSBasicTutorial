@@ -6,6 +6,7 @@ import BasicExample from "./BasicExample";
 import { BrowserRouter as Router, Route, Link, Switch } from "react-router-dom";
 import AjaxGetExample from "./AjaxGetExample";
 import AjaxPostExample from "./AjaxPostExample";
+import CartExample from "./CartComponentExample";
 
 class App extends React.Component {
   render() {
@@ -16,6 +17,7 @@ class App extends React.Component {
           <Route exact path="/about" component={About}></Route>
           <Route exact path="/contact" component={Contact}></Route>
           <Route exact path="/basicexample" component={BasicExample}></Route>
+          <Route exact path="/cartexample" component={CartExample}></Route>
           <Route
             exact
             path="/ajaxgetexample"
